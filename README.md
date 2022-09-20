@@ -1,1 +1,2 @@
-# Foo is a really cool project!
+# Foo is a really cool project! 
+## More data about foo.
