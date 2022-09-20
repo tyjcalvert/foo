@@ -1,1 +1,1 @@
-# foo
+# Foo is a really cool project!
